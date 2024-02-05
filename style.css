@@ -590,7 +590,7 @@ body.active { overflow: hidden; }
 .hero-banner {
   max-width: 500px;
   width: 125%;
- margin-top: 9rem;
+ margin-top: 12rem;
 }
 
 :is(.hero-social-list, .scroll-down) { display: none; }
@@ -2343,7 +2343,7 @@ textarea.input-field {
  }
  @media (max-width: 500px) {
   .hero-banner {
-    margin-top: 1rem;
+    margin-top: 5rem;
   }
  }
  @media (max-width: 500px) {
